@@ -470,7 +470,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -10203,10 +10203,10 @@ header.masthead h1 {
 /*portrait*/
 .portrait{
   width: 160px;
-  border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 50%;
   margin-bottom: 4em;
 }
 
